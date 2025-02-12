@@ -6,10 +6,9 @@ using System.Threading.Tasks;
 
 namespace GitDemoSoln
 {
-    class Supriya
+    public interface Interface1
     {
-        public int Id { get; set; }
-
-
+        void hello();
+        void taniya();
     }
 }
