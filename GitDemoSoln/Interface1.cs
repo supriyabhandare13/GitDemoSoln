@@ -10,5 +10,6 @@ namespace GitDemoSoln
     {
         void hello();
         void taniya();
+        void srushti();
     }
 }
